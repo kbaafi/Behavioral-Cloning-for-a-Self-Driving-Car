@@ -11,7 +11,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./output_images/model.png 
+[image1]: ./output_images/Selection_024.png 
 [image2]: ./output_images/centre.png
 [image3]: ./output_images/left.png
 [image4]: ./output_images/right.png
