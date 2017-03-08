@@ -11,19 +11,19 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/model.png 
-[image2]: ./examples/centre.png
-[image3]: ./examples/left.png
-[image4]: ./examples/right.png
-[image5]: ./examples/aug_orig.png
-[image6]: ./examples/br.png
-image7]: ./examples/br.png
-image8]: ./examples/br.png
-image9]: ./examples/tr.png
-image10]: ./examples/fl.png
-image11]: ./examples/resized.png
-[image12]: ./examples/orignal_steering.png
-image13]: ./examples/curated_steering.png
+[image1]: ./output_images/model.png 
+[image2]: ./output_images/centre.png
+[image3]: ./output_images/left.png
+[image4]: ./output_images/right.png
+[image5]: ./output_images/aug_orig.png
+[image6]: ./output_images/br.png
+image7]: ./output_images/br.png
+image8]: ./output_images/br.png
+image9]: ./output_images/tr.png
+image10]: ./output_images/fl.png
+image11]: ./output_images/resized.png
+[image12]: ./output_images/orignal_steering.png
+image13]: ./output_images/curated_steering.png
 
 ## Rubric [Points](https://review.udacity.com/#!/rubrics/432/view)
 
