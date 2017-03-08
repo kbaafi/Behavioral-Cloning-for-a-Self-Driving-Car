@@ -20,7 +20,7 @@ The goals / steps of this project are the following:
 [image7]: ./output_images/tr.png
 [image10]: ./output_images/fl.png
 [image11]: ./output_images/resized.png
-[image12]: ./output_images/orignal_steering.png
+[image12]: ./output_images/original_steering.png
 [image13]: ./output_images/curated_steering.png
 
 ## Rubric [Points](https://review.udacity.com/#!/rubrics/432/view)
