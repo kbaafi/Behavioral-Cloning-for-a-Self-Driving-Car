@@ -123,7 +123,7 @@ When an image, angle pair is generated in the generator, if the steering angle a
 
 The plot of the distributions before and after data selection is shown below
 
-![alt text][image13]
+![alt text][image12]
 
 ![alt text][image13]
 
