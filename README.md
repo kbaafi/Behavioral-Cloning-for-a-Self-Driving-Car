@@ -105,10 +105,6 @@ Samples of perturbed images are shown below
 
 ![alt text][image7]
 
-![alt text][image8]
-
-![alt text][image9]
-
 ![alt text][image10]
 
 After the transformations each image is cropped to reveal only the portion of the road that we are interested in. The function `crop_resize` in `bc_preprocessing.py` handles this task. The resulting image is shown below:
