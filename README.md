@@ -17,9 +17,7 @@ The goals / steps of this project are the following:
 [image4]: ./output_images/right.png
 [image5]: ./output_images/aug_orig.png
 [image6]: ./output_images/br.png
-[image7]: ./output_images/br.png
-[image8]: ./output_images/br.png
-[image9]: ./output_images/tr.png
+[image7]: ./output_images/tr.png
 [image10]: ./output_images/fl.png
 [image11]: ./output_images/resized.png
 [image12]: ./output_images/orignal_steering.png
